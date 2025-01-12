@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ararog
-- 👀 I’m interested in Go, React, React Native and others.
-- 🌱 I’m currently learning GraphQL
+- 👀 I’m interested in Rust, Go, React, React Native and devops.
+- 🌱 I’m currently learning kubernetes, Rust and NextJS.
 - 💞️ I’m looking to collaborate on open source mobile projects.
-- 📫 How to reach me ...
+- 📫 You can find me on linkedin, instagram and some other platforms with same username handle.
 
 <!---
 ararog/ararog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
