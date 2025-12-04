@@ -8,29 +8,23 @@ I can classify my skills in different areas, from mobile, to backend and devops.
 
 ### Backend
 
-* NodeJS
-* Golang
-* Rust
-* Python
-* PHP
-* C#
+NodeJS, Golang, Rust, Python, PHP, C#
 
 ### Mobile
 
-* Xamarin
-* Android
-* iOS
-* React Native
+Xamarin, Android, iOS, React Native
+
+### Cloud
+
+AWS and GCP
 
 ### DevOps
 
-* Terraform
-* Docker
-* Jenkins
-* GitHub Actions
-* Spinnaker
-* Kubernetes
-* Itsio
+Terraform, Docker, Jenkins, GitHub Actions, Spinnaker, Kubernetes, Prometheus, Grafana and Itsio
+
+## Open source projects
+
+Deboa, uGET, Paya, Verbo and Timeago
 
 <!---
 ararog/ararog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
