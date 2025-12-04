@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @ararog
-- 👀 I’m interested in Rust, Go, React, React Native and devops.
-- 🌱 I’m currently learning kubernetes, Rust and NextJS.
-- 💞️ I’m looking to collaborate on open source mobile projects.
-- 📫 You can find me on linkedin, instagram and some other platforms with same username handle.
+# About me
+
+I'm a software engineer with more than 20 years experience.
+
+## My skills
+
+I can classify my skills in different areas, from mobile, to backend and devops.
+
+### Backend
+
+* NodeJS
+* Golang
+* Rust
+* Python
+* PHP
+* C#
+
+### Mobile
+
+* Xamarin
+* Android
+* iOS
+* React Native
+
+### DevOps
+
+* Terraform
+* Docker
+* Jenkins
+* GitHub Actions
+* Spinnaker
+* Kubernetes
+* Itsio
 
 <!---
 ararog/ararog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
