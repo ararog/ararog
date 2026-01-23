@@ -24,7 +24,7 @@ Terraform, Docker, Jenkins, GitHub Actions, Spinnaker, Kubernetes, Prometheus, G
 
 ## Open source projects
 
-Deboa, uGET, Paya, Verbo and Timeago
+Deboa, uGET, Paya, easyhttpmock, vetis, sophia, Verbo and Timeago
 
 <!---
 ararog/ararog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
