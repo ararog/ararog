@@ -20,11 +20,11 @@ AWS and GCP
 
 ### DevOps
 
-Terraform, Docker, Jenkins, GitHub Actions, Spinnaker, Kubernetes, Prometheus, Grafana and Itsio
+Terraform, TeamCity, Octopus Deploy, Docker, Jenkins, GitHub Actions, Spinnaker, Kubernetes, Prometheus, Grafana and Itsio
 
 ## Open source projects
 
-Deboa, uGET, Paya, easyhttpmock, vetis, sophia, Verbo and Timeago
+Deboa, uGET, Paya, caramelo, easyhttpmock, vetis, sophia, Verbo and Timeago
 
 <!---
 ararog/ararog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
