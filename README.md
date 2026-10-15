@@ -6,9 +6,9 @@ I'm a software engineer with more than 20 years experience.
 
 I can classify my skills in different areas, from mobile, to backend and devops.
 
-### Backend
+### Languages
 
-NodeJS, Golang, Rust, Python, PHP, C#
+Typescript, Javascript, Golang, Rust, Python, PHP, C#, Java and Perl 
 
 ### Mobile
 
@@ -20,7 +20,7 @@ AWS and GCP
 
 ### DevOps
 
-Terraform, TeamCity, Octopus Deploy, Docker, Jenkins, GitHub Actions, Spinnaker, Kubernetes, Prometheus, Grafana and Itsio
+Terraform, TeamCity, Octopus Deploy, Docker, Jenkins, GitHub Actions, Splunk, Spinnaker, Kubernetes, Prometheus, Grafana and Itsio
 
 ## Open source projects
 
